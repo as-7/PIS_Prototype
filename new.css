@@ -1,0 +1,11542 @@
+/*
+	@name web_1920___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative;  overflow: hidden;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_web_1920___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 250px;
+	background:rgba(0,175,76,255);
+}
+
+
+#govindpuri__bus_stand {
+	top: 35px;
+	left: 62px;
+	width: 326px;
+	height: 154px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_4_26_pm {
+	top: 43px;
+	left: 666px;
+	width: 366px;
+	height: 144px;
+	font-family: Segoe UI;
+	font-size: 94px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_2 {
+	opacity:0.33000001311302;
+	top: 247px;
+	left: 0px;
+	width: 1080px;
+	height: 552px;
+	background:rgba(0,175,12,255);
+}
+
+#group_10 {
+	top: 353px;
+	left: 45px;
+	width: 972px;
+	height: 360px;
+}
+
+#_108 {
+	top: -14px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__01 {
+	top: -14px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_vihar {
+	top: -15px;
+	left: 400px;
+	width: 342px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#tughlaqabad_crossing {
+	top: 89px;
+	left: 400px;
+	width: 471px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_place {
+	top: 227px;
+	left: 400px;
+	width: 258px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#kalkaji_temple {
+	top: 158px;
+	left: 400px;
+	width: 304px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#palam_airport {
+	top: 296px;
+	left: 400px;
+	width: 289px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__next_bus {
+	top: 275px;
+	left: 45px;
+	width: 417px;
+	height: 82px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+
+#__04 {
+	top: 419px;
+	left: 940px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__07 {
+	top: 473px;
+	left: 940px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#path_1 {
+	top: 375px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_3 {
+	top: 495px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_2 {
+	top: 442px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#__p__incoming_buses {
+	top: 827px;
+	left: 45px;
+	width: 481px;
+	height: 78px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_11 {
+	top: 946px;
+	left: 29px;
+	width: 1036px;
+	height: 225px;
+}
+
+#path_5 {
+	top: 24px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_7 {
+	top: 162px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_6 {
+	top: 95px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_6 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185 {
+	top: -13px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__04_ek1 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__kendriya_terminal {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__07_ek1 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__07_ek2 {
+	top: 137px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_9 {
+	top: 1689px;
+	left: 29px;
+	width: 972px;
+	height: 225px;
+}
+
+#_234cl {
+	top: -15px;
+	left: 0px;
+	width: 185px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__12 {
+	top: -15px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__harsh_vihar {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__25 {
+	top: 64px;
+	left: 890px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__25_ek1 {
+	top: 121px;
+	left: 890px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_12 {
+	top: 1195px;
+	left: 29px;
+	width: 1035px;
+	height: 225px;
+}
+#group_7 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185lnkstl {
+	top: -13px;
+	left: 0px;
+	width: 340px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__06 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__08 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__08_ek1 {
+	top: 127px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__old_delhi__railway__station {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_11 {
+	top: 95px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_12 {
+	top: 31px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_13 {
+	top: 146px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_13 {
+	top: 1442px;
+	left: 29px;
+	width: 1032px;
+	height: 225px;
+}
+#group_8 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#__15 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__15_ek1 {
+	top: 127px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#_185stl {
+	top: -13px;
+	left: 0px;
+	width: 216px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__07_ek3 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__natthupura {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_10 {
+	top: 22px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_9 {
+	top: 87px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_14 {
+	top: 152px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_15 {
+	top: 1711px;
+	left: 1021px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_16 {
+	top: 1776px;
+	left: 1021px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_17 {
+	top: 1831px;
+	left: 1021px;
+	width: 40px;
+	height: 36px;
+}
+
+#page_web_1920___7_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___7_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 250px;
+	background:rgba(0,175,76,255);
+}
+
+
+#govindpuri__bus_stand_ek1 {
+	top: 35px;
+	left: 62px;
+	width: 326px;
+	height: 154px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_4_26_pm_ek1 {
+	top: 43px;
+	left: 666px;
+	width: 366px;
+	height: 144px;
+	font-family: Segoe UI;
+	font-size: 94px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_2_ek1 {
+	opacity:0.33000001311302;
+	top: 247px;
+	left: 0px;
+	width: 1080px;
+	height: 552px;
+	background:rgba(0,175,12,255);
+}
+
+
+#rectangle_4 {
+	opacity:0.33000001311302;
+	top: 1660px;
+	left: 0px;
+	width: 1080px;
+	height: 260px;
+	background:rgba(137,152,138,255);
+}
+
+
+#rectangle_5 {
+	opacity:0.33000001311302;
+	top: 1178px;
+	left: 0px;
+	width: 1080px;
+	height: 260px;
+	background:rgba(137,152,138,255);
+}
+
+#group_10_ek1 {
+	top: 353px;
+	left: 45px;
+	width: 972px;
+	height: 360px;
+}
+
+#_108_ek1 {
+	top: -14px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__01_ek1 {
+	top: -14px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_vihar_ek1 {
+	top: -15px;
+	left: 400px;
+	width: 342px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#tughlaqabad_crossing_ek1 {
+	top: 89px;
+	left: 400px;
+	width: 471px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_place_ek1 {
+	top: 227px;
+	left: 400px;
+	width: 258px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#kalkaji_temple_ek1 {
+	top: 158px;
+	left: 400px;
+	width: 304px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#palam_airport_ek1 {
+	top: 296px;
+	left: 400px;
+	width: 289px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__next_bus_ek1 {
+	top: 275px;
+	left: 45px;
+	width: 417px;
+	height: 82px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+
+#__04_ek2 {
+	top: 419px;
+	left: 940px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__07_ek4 {
+	top: 473px;
+	left: 940px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#path_1_ek1 {
+	top: 375px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_3_ek1 {
+	top: 495px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_2_ek1 {
+	top: 442px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#__p__incoming_buses_ek1 {
+	top: 827px;
+	left: 45px;
+	width: 481px;
+	height: 78px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_11_ek1 {
+	top: 946px;
+	left: 29px;
+	width: 1036px;
+	height: 225px;
+}
+
+#path_5_ek1 {
+	top: 24px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_7_ek1 {
+	top: 162px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_6_ek1 {
+	top: 95px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_6_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185_ek1 {
+	top: -13px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__04_ek3 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__kendriya_terminal_ek1 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__07_ek5 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__07_ek6 {
+	top: 137px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_9_ek1 {
+	top: 1689px;
+	left: 29px;
+	width: 972px;
+	height: 225px;
+}
+
+#_234cl_ek1 {
+	top: -15px;
+	left: 0px;
+	width: 185px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__12_ek1 {
+	top: -15px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__harsh_vihar_ek1 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__25_ek2 {
+	top: 64px;
+	left: 890px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__25_ek3 {
+	top: 121px;
+	left: 890px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_12_ek1 {
+	top: 1195px;
+	left: 29px;
+	width: 1035px;
+	height: 225px;
+}
+#group_7_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185lnkstl_ek1 {
+	top: -13px;
+	left: 0px;
+	width: 340px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__06_ek1 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__08_ek2 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__08_ek3 {
+	top: 127px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__old_delhi__railway__station_ek1 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_11_ek1 {
+	top: 95px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_12_ek1 {
+	top: 31px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_13_ek1 {
+	top: 146px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_13_ek1 {
+	top: 1442px;
+	left: 29px;
+	width: 1032px;
+	height: 225px;
+}
+#group_8_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#__15_ek2 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__15_ek3 {
+	top: 127px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#_185stl_ek1 {
+	top: -13px;
+	left: 0px;
+	width: 216px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__07_ek7 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__natthupura_ek1 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_10_ek1 {
+	top: 22px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_9_ek1 {
+	top: 87px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_14_ek1 {
+	top: 152px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_15_ek1 {
+	top: 1711px;
+	left: 1021px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_16_ek1 {
+	top: 1776px;
+	left: 1021px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_17_ek1 {
+	top: 1831px;
+	left: 1021px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#line_2 {
+	top: 892px;
+	left: 3px;
+	width: 1080px;
+	height: 1px;
+}
+
+
+#rectangle_9 {
+	opacity:0.33000001311302;
+	top: 798px;
+	left: 0px;
+	width: 1080px;
+	height: 94px;
+	background:rgba(137,152,138,255);
+}
+
+#page_web_1920___12_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___12_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_12 {
+	opacity:0.050980392156863;
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(0,0,0,13);
+}
+
+#group_36 {
+	top: 180px;
+	left: 0px;
+	width: 1080px;
+	height: 90px;
+}
+
+#rectangle_13 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 90px;
+	background:rgba(255,136,0,255);
+}
+
+
+#__p__currently_showing_cluster_buses_only {
+	top: 9px;
+	left: 45px;
+	width: 753px;
+	height: 73.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#ffffff;
+}
+
+#group_37 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 180px;
+}
+
+#rectangle_3_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 180px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,175,164,255);
+}
+
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium___ {
+	top: 26px;
+	left: 45px;
+	width: 577px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#ffffff;
+}
+
+
+#_4_26_pm_ek2 {
+	top: 23px;
+	left: 666px;
+	width: 360px;
+	height: 132px;
+	font-family: Roboto;
+	font-size: 94px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_40 {
+	top: 850px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek2 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium_ter___ {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39 {
+	top: 29px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__07_ek8 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38 {
+	top: 14px;
+	left: 882px;
+	width: 66px;
+	height: 69.125px;
+}
+
+#__04_ek4 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__lnkstl {
+	top: 72px;
+	left: 38px;
+	width: 117px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_51 {
+	top: 1030px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek3 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium_ter____ek1 {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek1 {
+	top: 29px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__07_ek9 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek1 {
+	top: 14px;
+	left: 882px;
+	width: 66px;
+	height: 69.125px;
+}
+
+#__04_ek5 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek1 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__lnkstl_ek1 {
+	top: 72px;
+	left: 38px;
+	width: 117px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_52 {
+	top: 1210px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek4 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium_ter____ek2 {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek2 {
+	top: 29px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__07_ek10 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek2 {
+	top: 14px;
+	left: 882px;
+	width: 66px;
+	height: 69.125px;
+}
+
+#__04_ek6 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek2 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__lnkstl_ek2 {
+	top: 72px;
+	left: 38px;
+	width: 117px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_53 {
+	top: 1390px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek5 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium_ter____ek3 {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek3 {
+	top: 29px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__07_ek11 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek3 {
+	top: 14px;
+	left: 882px;
+	width: 66px;
+	height: 69.125px;
+}
+
+#__04_ek7 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek3 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__lnkstl_ek3 {
+	top: 72px;
+	left: 38px;
+	width: 117px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_54 {
+	top: 1570px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek6 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium_ter____ek4 {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek4 {
+	top: 14px;
+	left: 970px;
+	width: 66px;
+	height: 69.125px;
+}
+
+#__07_ek12 {
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#ff0000;
+}
+
+
+#last {
+	top: -5px;
+	left: 18px;
+	width: 53px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#ff0000;
+}
+
+#group_38_ek4 {
+	top: 14px;
+	left: 882px;
+	width: 66px;
+	height: 69.125px;
+}
+
+#__04_ek8 {
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#ff0000;
+}
+
+
+#last_ek1 {
+	top: -5px;
+	left: 18px;
+	width: 53px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#ff0000;
+}
+
+
+#__p__lnkstl_ek4 {
+	top: 72px;
+	left: 38px;
+	width: 117px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+
+#delhi_government {
+	top: 1810px;
+	left: 613px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#iiitd_logo {
+	top: 1810px;
+	left: 813px;
+	width: 166.66668701172px;
+	height: 100px;
+}
+
+
+#ndmc_logo {
+	top: 1810px;
+	left: 717px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#path_19 {
+	top: 1830px;
+	left: 984px;
+	width: 63.999755859375px;
+	height: 60px;
+}
+
+#group_55 {
+	top: 290px;
+	left: 13px;
+	width: 1055px;
+	height: 540px;
+}
+#group_27 {
+	top: 0px;
+	left: 0px;
+	width: 1055px;
+	height: 540px;
+}
+
+#rectangle_2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1055px;
+	height: 540px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#__p___108lnkstl {
+	top: 71px;
+	left: 32px;
+	width: 333px;
+	height: 114px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#next_bus_ek2 {
+	top: 21px;
+	left: 32px;
+	width: 126px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_29 {
+	top: 178px;
+	left: 183px;
+	width: 513px;
+	height: 318px;
+}
+
+#nehru_vihar_ek2 {
+	top: -15px;
+	left: 61px;
+	width: 327px;
+	height: 84px;
+	font-family: Roboto;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#tughlaqabad_crossing_ek2 {
+	top: 67px;
+	left: 61px;
+	width: 457px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_place_ek2 {
+	top: 191px;
+	left: 61px;
+	width: 250px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#kalkaji_temple_ek2 {
+	top: 129px;
+	left: 61px;
+	width: 299px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#palam_airport_ek2 {
+	top: 253px;
+	left: 61px;
+	width: 284px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_28 {
+	top: 17px;
+	left: 0px;
+	width: 36px;
+	height: 285px;
+}
+
+#line_3 {
+	top: 34px;
+	left: 17px;
+	width: 4px;
+	height: 230px;
+}
+
+
+#ellipse_1 {
+	top: 0px;
+	left: 0px;
+	width: 36px;
+	height: 36px;
+	-ms-border-radius: 18px / 18px;
+	-o-border-radius: 18px / 18px;
+	-moz-border-radius: 18px / 18px;
+	-webkit-border-radius: 18px / 18px;
+	border-radius: 18px / 18px;
+	background:rgba(0,175,76,255);
+}
+
+
+#ellipse_2 {
+	top: 76px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_3 {
+	top: 138px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_4 {
+	top: 199px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_5 {
+	top: 261px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+#group_30 {
+	top: 74px;
+	left: 880px;
+	width: 66px;
+	height: 71px;
+}
+
+#__04_ek9 {
+	opacity:0.54901960784314;
+	top: 6px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek4 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_31 {
+	top: 74px;
+	left: 968px;
+	width: 66px;
+	height: 71px;
+}
+
+#__04_ek10 {
+	opacity:0.54901960784314;
+	top: 6px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek5 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#_1st_bus {
+	top: 21px;
+	left: 848px;
+	width: 104px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#next {
+	top: 21px;
+	left: 977px;
+	width: 63px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+#page_web_1920___15_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___15_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_12_ek1 {
+	opacity:0.050980392156863;
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(0,0,0,13);
+}
+
+#group_36_ek1 {
+	top: 180px;
+	left: 0px;
+	width: 1080px;
+	height: 90px;
+}
+
+#rectangle_13_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 90px;
+	background:rgba(255,136,0,255);
+}
+
+
+#__p__currently_showing_cluster_buses_only_ek1 {
+	top: 9px;
+	left: 45px;
+	width: 753px;
+	height: 73.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#ffffff;
+}
+
+#group_37_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 180px;
+}
+
+#rectangle_3_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 180px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,175,164,255);
+}
+
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium____ek1 {
+	top: 26px;
+	left: 45px;
+	width: 577px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#ffffff;
+}
+
+
+#_4_26_pm_ek3 {
+	top: 23px;
+	left: 666px;
+	width: 360px;
+	height: 132px;
+	font-family: Roboto;
+	font-size: 94px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_40_ek1 {
+	top: 850px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek7 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__kendriya_terminal_ek2 {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek5 {
+	top: 29px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__11 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek5 {
+	top: 29px;
+	left: 882px;
+	width: 66px;
+	height: 54px;
+}
+
+#__03 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_51_ek1 {
+	top: 1030px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek8 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__old_delhi_railway_station {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek6 {
+	top: 29px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__15_ek4 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek6 {
+	top: 29px;
+	left: 882px;
+	width: 66px;
+	height: 54px;
+}
+
+#__04_ek11 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__lnkstl_ek5 {
+	top: 72px;
+	left: 38px;
+	width: 117px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_52_ek1 {
+	top: 1210px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek9 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__natthupura_ek2 {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek7 {
+	top: 29px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__12_ek2 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek7 {
+	top: 14px;
+	left: 882px;
+	width: 66px;
+	height: 69.125px;
+}
+
+#__06_ek2 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek6 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__stl {
+	top: 72px;
+	left: 38px;
+	width: 117px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_53_ek1 {
+	top: 1390px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_234 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__harsh_vihar_ek2 {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek8 {
+	top: 29px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__17 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek8 {
+	top: 29px;
+	left: 882px;
+	width: 66px;
+	height: 54px;
+}
+
+#__08_ek4 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_54_ek1 {
+	top: 1570px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_262 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__kalyan_vihar_terminal {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek9 {
+	top: 29px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__20 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek9 {
+	top: 29px;
+	left: 882px;
+	width: 66px;
+	height: 54px;
+}
+
+#__11_ek1 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__lnkstl_ek6 {
+	top: 72px;
+	left: 38px;
+	width: 117px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+
+#delhi_government_ek1 {
+	top: 1810px;
+	left: 613px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#iiitd_logo_ek1 {
+	top: 1810px;
+	left: 813px;
+	width: 166.66668701172px;
+	height: 100px;
+}
+
+
+#ndmc_logo_ek1 {
+	top: 1810px;
+	left: 717px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#path_19_ek1 {
+	top: 1830px;
+	left: 984px;
+	width: 63.999755859375px;
+	height: 60px;
+}
+
+#group_27_ek1 {
+	top: 290px;
+	left: 13px;
+	width: 1055px;
+	height: 540px;
+}
+
+#rectangle_2_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1055px;
+	height: 540px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#__p___108lnkstl_ek1 {
+	top: 71px;
+	left: 32px;
+	width: 333px;
+	height: 114px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#next_bus_ek3 {
+	top: 21px;
+	left: 32px;
+	width: 126px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#_1st_bus_ek1 {
+	top: 21px;
+	left: 848px;
+	width: 104px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#next_ek1 {
+	top: 21px;
+	left: 977px;
+	width: 63px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_29_ek1 {
+	top: 178px;
+	left: 183px;
+	width: 513px;
+	height: 318px;
+}
+
+#nehru_vihar_ek3 {
+	top: -15px;
+	left: 61px;
+	width: 327px;
+	height: 84px;
+	font-family: Roboto;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#tughlaqabad_crossing_ek3 {
+	top: 67px;
+	left: 61px;
+	width: 457px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_place_ek3 {
+	top: 191px;
+	left: 61px;
+	width: 250px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#kalkaji_temple_ek3 {
+	top: 129px;
+	left: 61px;
+	width: 299px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#palam_airport_ek3 {
+	top: 253px;
+	left: 61px;
+	width: 284px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_28_ek1 {
+	top: 17px;
+	left: 0px;
+	width: 36px;
+	height: 285px;
+}
+
+#line_3_ek1 {
+	top: 34px;
+	left: 17px;
+	width: 4px;
+	height: 230px;
+}
+
+
+#ellipse_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 36px;
+	height: 36px;
+	-ms-border-radius: 18px / 18px;
+	-o-border-radius: 18px / 18px;
+	-moz-border-radius: 18px / 18px;
+	-webkit-border-radius: 18px / 18px;
+	border-radius: 18px / 18px;
+	background:rgba(0,175,76,255);
+}
+
+
+#ellipse_2_ek1 {
+	top: 76px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_3_ek1 {
+	top: 138px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_4_ek1 {
+	top: 199px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_5_ek1 {
+	top: 261px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+#group_30_ek1 {
+	top: 74px;
+	left: 880px;
+	width: 66px;
+	height: 71px;
+}
+
+#_01 {
+	opacity:0.54901960784314;
+	top: 6px;
+	left: 0px;
+	width: 57px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek7 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_31_ek1 {
+	top: 74px;
+	left: 968px;
+	width: 66px;
+	height: 71px;
+}
+
+#__07_ek13 {
+	opacity:0.54901960784314;
+	top: 6px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek8 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+#page_web_1920___16_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___16_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_12_ek2 {
+	opacity:0.050980392156863;
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(0,0,0,13);
+}
+
+#group_36_ek2 {
+	top: 180px;
+	left: 0px;
+	width: 1080px;
+	height: 90px;
+}
+
+#rectangle_13_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 90px;
+	background:rgba(255,136,0,255);
+}
+
+
+#__p__currently_showing_cluster_buses_only_ek2 {
+	top: 9px;
+	left: 45px;
+	width: 753px;
+	height: 73.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#ffffff;
+}
+
+#group_37_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 180px;
+}
+
+#rectangle_3_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 180px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,175,164,255);
+}
+
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium____ek2 {
+	top: 26px;
+	left: 45px;
+	width: 577px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#ffffff;
+}
+
+
+#_4_26_pm_ek4 {
+	top: 23px;
+	left: 666px;
+	width: 360px;
+	height: 132px;
+	font-family: Roboto;
+	font-size: 94px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_40_ek2 {
+	top: 670px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek10 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__kendriya_terminal_ek3 {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek10 {
+	top: 29px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__11_ek2 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek10 {
+	top: 29px;
+	left: 882px;
+	width: 66px;
+	height: 54px;
+}
+
+#__03_ek1 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_51_ek2 {
+	top: 850px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek11 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__old_delhi_railway_station_ek1 {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek11 {
+	top: 29px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__15_ek5 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek11 {
+	top: 29px;
+	left: 882px;
+	width: 66px;
+	height: 54px;
+}
+
+#__04_ek12 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__lnkstl_ek7 {
+	top: 72px;
+	left: 38px;
+	width: 117px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_52_ek2 {
+	top: 1030px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek12 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__natthupura_ek3 {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek12 {
+	top: 29px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__12_ek3 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek12 {
+	top: 14px;
+	left: 882px;
+	width: 66px;
+	height: 69.125px;
+}
+
+#__06_ek3 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek9 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__stl_ek1 {
+	top: 72px;
+	left: 38px;
+	width: 117px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_53_ek2 {
+	top: 1210px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_234_ek1 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__harsh_vihar_ek3 {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek13 {
+	top: 29px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__17_ek1 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek13 {
+	top: 29px;
+	left: 882px;
+	width: 66px;
+	height: 54px;
+}
+
+#__08_ek5 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_54_ek2 {
+	top: 1390px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_262_ek1 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__kalyan_vihar_terminal_ek1 {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek14 {
+	top: 29px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__20_ek1 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek14 {
+	top: 29px;
+	left: 882px;
+	width: 66px;
+	height: 54px;
+}
+
+#__11_ek3 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__lnkstl_ek8 {
+	top: 72px;
+	left: 38px;
+	width: 117px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_57 {
+	top: 1570px;
+	left: 12px;
+	width: 1056px;
+	height: 160px;
+}
+
+#rectangle_11_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_512 {
+	top: 18px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__somewhere_only_we_know {
+	top: 18px;
+	left: 188px;
+	width: 641px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek15 {
+	top: 29px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__20_ek2 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek15 {
+	top: 29px;
+	left: 882px;
+	width: 66px;
+	height: 54px;
+}
+
+#__11_ek4 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__lnkstl_ek9 {
+	top: 72px;
+	left: 38px;
+	width: 117px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+
+#delhi_government_ek2 {
+	top: 1810px;
+	left: 613px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#iiitd_logo_ek2 {
+	top: 1810px;
+	left: 813px;
+	width: 166.66662597656px;
+	height: 100px;
+}
+
+
+#ndmc_logo_ek2 {
+	top: 1810px;
+	left: 717px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#path_19_ek2 {
+	top: 1830px;
+	left: 984px;
+	width: 63.999755859375px;
+	height: 60px;
+}
+
+#group_27_ek2 {
+	top: 290px;
+	left: 13px;
+	width: 1055px;
+	height: 540px;
+}
+
+#rectangle_2_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 1055px;
+	height: 540px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#__p___185_ek13 {
+	top: 71px;
+	left: 32px;
+	width: 333px;
+	height: 114px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#next_bus_ek4 {
+	top: 21px;
+	left: 32px;
+	width: 126px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#_1st_bus_ek2 {
+	top: 21px;
+	left: 848px;
+	width: 104px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#next_ek2 {
+	top: 21px;
+	left: 977px;
+	width: 63px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_29_ek2 {
+	top: 178px;
+	left: 183px;
+	width: 549px;
+	height: 318px;
+}
+
+#kendriya_terminal_ek4 {
+	top: -15px;
+	left: 61px;
+	width: 493px;
+	height: 84px;
+	font-family: Roboto;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#tughlaqabad_crossing_ek4 {
+	top: 67px;
+	left: 61px;
+	width: 457px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_place_ek4 {
+	top: 191px;
+	left: 61px;
+	width: 250px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#kalkaji_temple_ek4 {
+	top: 129px;
+	left: 61px;
+	width: 299px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#palam_airport_ek4 {
+	top: 253px;
+	left: 61px;
+	width: 284px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_28_ek2 {
+	top: 17px;
+	left: 0px;
+	width: 36px;
+	height: 285px;
+}
+
+#line_3_ek2 {
+	top: 34px;
+	left: 17px;
+	width: 4px;
+	height: 230px;
+}
+
+
+#ellipse_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 36px;
+	height: 36px;
+	-ms-border-radius: 18px / 18px;
+	-o-border-radius: 18px / 18px;
+	-moz-border-radius: 18px / 18px;
+	-webkit-border-radius: 18px / 18px;
+	border-radius: 18px / 18px;
+	background:rgba(0,175,76,255);
+}
+
+
+#ellipse_2_ek2 {
+	top: 76px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_3_ek2 {
+	top: 138px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_4_ek2 {
+	top: 199px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_5_ek2 {
+	top: 261px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+#group_30_ek2 {
+	top: 74px;
+	left: 880px;
+	width: 66px;
+	height: 71px;
+}
+
+#_01_ek1 {
+	opacity:0.54901960784314;
+	top: 6px;
+	left: 0px;
+	width: 57px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek10 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_31_ek2 {
+	top: 74px;
+	left: 968px;
+	width: 66px;
+	height: 71px;
+}
+
+#__07_ek14 {
+	opacity:0.54901960784314;
+	top: 6px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek11 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+#page_web_1920___13_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___13_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_12_ek3 {
+	opacity:0.050980392156863;
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(0,0,0,13);
+}
+
+#group_36_ek3 {
+	top: 180px;
+	left: 0px;
+	width: 1080px;
+	height: 90px;
+}
+
+#rectangle_13_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 90px;
+	background:rgba(255,136,0,255);
+}
+
+
+#__p__currently_showing_cluster_buses_only_ek3 {
+	top: 9px;
+	left: 45px;
+	width: 753px;
+	height: 73.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#ffffff;
+}
+
+#group_37_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 180px;
+}
+
+#rectangle_3_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 180px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,175,164,255);
+}
+
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium____ek3 {
+	top: 26px;
+	left: 45px;
+	width: 577px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#ffffff;
+}
+
+
+#_4_26_pm_ek5 {
+	top: 23px;
+	left: 666px;
+	width: 360px;
+	height: 132px;
+	font-family: Roboto;
+	font-size: 94px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_40_ek3 {
+	top: 850px;
+	left: 12px;
+	width: 1056px;
+	height: 220px;
+}
+
+#rectangle_11_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 220px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek14 {
+	top: 16px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium__terminal {
+	top: 16px;
+	left: 188px;
+	width: 641px;
+	height: 212.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek16 {
+	top: 27px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__07_ek15 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek16 {
+	top: 12px;
+	left: 882px;
+	width: 66px;
+	height: 69.125px;
+}
+
+#__04_ek13 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek12 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__lnkstl_ek10 {
+	top: 73px;
+	left: 38px;
+	width: 112px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_48 {
+	top: 1090px;
+	left: 12px;
+	width: 1056px;
+	height: 220px;
+}
+
+#rectangle_11_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 220px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek15 {
+	top: 16px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium__terminal_ek1 {
+	top: 16px;
+	left: 188px;
+	width: 641px;
+	height: 212.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek17 {
+	top: 27px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__07_ek16 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek17 {
+	top: 12px;
+	left: 882px;
+	width: 66px;
+	height: 69.125px;
+}
+
+#__04_ek14 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek13 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__lnkstl_ek11 {
+	top: 73px;
+	left: 38px;
+	width: 112px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_49 {
+	top: 1330px;
+	left: 12px;
+	width: 1056px;
+	height: 220px;
+}
+
+#rectangle_11_ek18 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 220px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek16 {
+	top: 16px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium__terminal_ek2 {
+	top: 16px;
+	left: 188px;
+	width: 641px;
+	height: 212.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek18 {
+	top: 27px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__07_ek17 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek18 {
+	top: 12px;
+	left: 882px;
+	width: 66px;
+	height: 69.125px;
+}
+
+#__04_ek15 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek14 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__lnkstl_ek12 {
+	top: 73px;
+	left: 38px;
+	width: 112px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_50 {
+	top: 1570px;
+	left: 12px;
+	width: 1056px;
+	height: 220px;
+}
+
+#rectangle_11_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 220px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek17 {
+	top: 16px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium__terminal_ek3 {
+	top: 16px;
+	left: 188px;
+	width: 641px;
+	height: 212.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek19 {
+	top: 27px;
+	left: 970px;
+	width: 66px;
+	height: 54px;
+}
+
+#__07_ek18 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek19 {
+	top: 12px;
+	left: 882px;
+	width: 66px;
+	height: 69.125px;
+}
+
+#__04_ek16 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek15 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__lnkstl_ek13 {
+	top: 73px;
+	left: 38px;
+	width: 112px;
+	height: 71px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+
+#delhi_government_ek3 {
+	top: 1810px;
+	left: 613px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#iiitd_logo_ek3 {
+	top: 1810px;
+	left: 813px;
+	width: 166.66662597656px;
+	height: 100px;
+}
+
+
+#ndmc_logo_ek3 {
+	top: 1810px;
+	left: 717px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#path_19_ek3 {
+	top: 1830px;
+	left: 984px;
+	width: 63.999755859375px;
+	height: 60px;
+}
+
+#group_56 {
+	top: 290px;
+	left: 13px;
+	width: 1055px;
+	height: 540px;
+}
+#group_27_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1055px;
+	height: 540px;
+}
+
+#rectangle_2_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 1055px;
+	height: 540px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#__p___108lnkstl_ek2 {
+	top: 71px;
+	left: 32px;
+	width: 333px;
+	height: 114px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#next_bus_ek5 {
+	top: 21px;
+	left: 32px;
+	width: 126px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_29_ek3 {
+	top: 178px;
+	left: 183px;
+	width: 513px;
+	height: 318px;
+}
+
+#nehru_vihar_ek4 {
+	top: -15px;
+	left: 61px;
+	width: 327px;
+	height: 84px;
+	font-family: Roboto;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#tughlaqabad_crossing_ek5 {
+	top: 67px;
+	left: 61px;
+	width: 457px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_place_ek5 {
+	top: 191px;
+	left: 61px;
+	width: 250px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#kalkaji_temple_ek5 {
+	top: 129px;
+	left: 61px;
+	width: 299px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#palam_airport_ek5 {
+	top: 253px;
+	left: 61px;
+	width: 284px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_28_ek3 {
+	top: 17px;
+	left: 0px;
+	width: 36px;
+	height: 285px;
+}
+
+#line_3_ek3 {
+	top: 34px;
+	left: 17px;
+	width: 4px;
+	height: 230px;
+}
+
+
+#ellipse_1_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 36px;
+	height: 36px;
+	-ms-border-radius: 18px / 18px;
+	-o-border-radius: 18px / 18px;
+	-moz-border-radius: 18px / 18px;
+	-webkit-border-radius: 18px / 18px;
+	border-radius: 18px / 18px;
+	background:rgba(0,175,76,255);
+}
+
+
+#ellipse_2_ek3 {
+	top: 76px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_3_ek3 {
+	top: 138px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_4_ek3 {
+	top: 199px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_5_ek3 {
+	top: 261px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+#group_30_ek3 {
+	top: 74px;
+	left: 880px;
+	width: 66px;
+	height: 71px;
+}
+
+#__04_ek17 {
+	opacity:0.54901960784314;
+	top: 6px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek16 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_31_ek3 {
+	top: 74px;
+	left: 968px;
+	width: 66px;
+	height: 71px;
+}
+
+#__04_ek18 {
+	opacity:0.54901960784314;
+	top: 6px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek17 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#_1st_bus_ek3 {
+	top: 21px;
+	left: 848px;
+	width: 104px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#next_ek3 {
+	top: 21px;
+	left: 977px;
+	width: 63px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+#page_web_1920___14_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___14_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_12_ek4 {
+	opacity:0.050980392156863;
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(0,0,0,13);
+}
+
+#group_37_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 220px;
+}
+
+#rectangle_3_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 220px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,175,164,255);
+}
+
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium____ek4 {
+	top: 67px;
+	left: 45px;
+	width: 577px;
+	height: 173.5px;
+	overflow: hidden;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	line-height: 54px;
+	color:#ffffff;
+}
+
+
+#_4_26_pm_ek6 {
+	top: 63px;
+	left: 666px;
+	width: 360px;
+	height: 132px;
+	font-family: Roboto;
+	font-size: 94px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_40_ek4 {
+	top: 840px;
+	left: 12px;
+	width: 1056px;
+	height: 222px;
+}
+
+#rectangle_11_ek20 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 222px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek18 {
+	top: 12px;
+	left: 38px;
+	width: 84px;
+	height: 75px;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium__terminal_ek4 {
+	top: 16px;
+	left: 188px;
+	width: 641px;
+	height: 214.5px;
+	overflow: hidden;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	line-height: 54px;
+	color:#040404;
+}
+
+#group_39_ek20 {
+	top: 27px;
+	left: 970px;
+	width: 66px;
+	height: 102.06982421875px;
+}
+
+#path_6_ek2 {
+	top: 54px;
+	left: 18px;
+	width: 48px;
+	height: 47.999755859375px;
+}
+
+
+#__07_ek19 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek20 {
+	top: 12px;
+	left: 882px;
+	width: 66px;
+	height: 117px;
+}
+
+#path_5_ek2 {
+	top: 69px;
+	left: 18px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__04_ek19 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek18 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_58 {
+	top: 1082px;
+	left: 12px;
+	width: 1056px;
+	height: 222px;
+}
+
+#rectangle_11_ek21 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 222px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek19 {
+	top: 12px;
+	left: 38px;
+	width: 84px;
+	height: 75px;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium__terminal_ek5 {
+	top: 16px;
+	left: 188px;
+	width: 641px;
+	height: 214.5px;
+	overflow: hidden;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	line-height: 54px;
+	color:#040404;
+}
+
+#group_39_ek21 {
+	top: 27px;
+	left: 970px;
+	width: 66px;
+	height: 102.06982421875px;
+}
+
+#path_6_ek3 {
+	top: 54px;
+	left: 18px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__07_ek20 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek21 {
+	top: 12px;
+	left: 882px;
+	width: 66px;
+	height: 117px;
+}
+
+#path_5_ek3 {
+	top: 69px;
+	left: 18px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__04_ek20 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek19 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_59 {
+	top: 1324px;
+	left: 12px;
+	width: 1056px;
+	height: 222px;
+}
+
+#rectangle_11_ek22 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 222px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek20 {
+	top: 12px;
+	left: 38px;
+	width: 84px;
+	height: 75px;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium__terminal_ek6 {
+	top: 16px;
+	left: 188px;
+	width: 641px;
+	height: 214.5px;
+	overflow: hidden;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	line-height: 54px;
+	color:#040404;
+}
+
+#group_39_ek22 {
+	top: 27px;
+	left: 970px;
+	width: 66px;
+	height: 102.06982421875px;
+}
+
+#path_6_ek4 {
+	top: 54px;
+	left: 18px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__07_ek21 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek22 {
+	top: 12px;
+	left: 882px;
+	width: 66px;
+	height: 117px;
+}
+
+#path_5_ek4 {
+	top: 69px;
+	left: 18px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__04_ek21 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek20 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_60 {
+	top: 1566px;
+	left: 12px;
+	width: 1056px;
+	height: 222px;
+}
+
+#rectangle_11_ek23 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 222px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek21 {
+	top: 12px;
+	left: 38px;
+	width: 84px;
+	height: 75px;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium__terminal_ek7 {
+	top: 16px;
+	left: 188px;
+	width: 641px;
+	height: 214.5px;
+	overflow: hidden;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	line-height: 54px;
+	color:#040404;
+}
+
+#group_39_ek23 {
+	top: 27px;
+	left: 970px;
+	width: 66px;
+	height: 102.06982421875px;
+}
+
+#path_6_ek5 {
+	top: 54px;
+	left: 18px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__07_ek22 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek23 {
+	top: 12px;
+	left: 882px;
+	width: 66px;
+	height: 117px;
+}
+
+#path_5_ek5 {
+	top: 69px;
+	left: 18px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__04_ek22 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek21 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#delhi_government_ek4 {
+	top: 1810px;
+	left: 613px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#iiitd_logo_ek4 {
+	top: 1810px;
+	left: 813px;
+	width: 166.66674804688px;
+	height: 100px;
+}
+
+
+#ndmc_logo_ek4 {
+	top: 1810px;
+	left: 717px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#path_19_ek4 {
+	top: 1830px;
+	left: 984px;
+	width: 63.999755859375px;
+	height: 60px;
+}
+
+#group_27_ek4 {
+	top: 240px;
+	left: 13px;
+	width: 1055px;
+	height: 540px;
+}
+
+#path_22 {
+	top: -23px;
+	left: -23px;
+	width: 1100px;
+	height: 585px;
+}
+
+
+#__p___108lnkstl_ek3 {
+	top: 71px;
+	left: 32px;
+	width: 333px;
+	height: 114px;
+	overflow: hidden;
+	font-family: Heebo;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#next_bus_ek6 {
+	top: 19px;
+	left: 32px;
+	width: 126px;
+	height: 50px;
+	font-family: Heebo;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_29_ek4 {
+	top: 172px;
+	left: 183px;
+	width: 513px;
+	height: 332px;
+}
+
+#nehru_vihar_ek5 {
+	top: -15px;
+	left: 61px;
+	width: 328px;
+	height: 100px;
+	font-family: Heebo;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#tughlaqabad_crossing_ek6 {
+	top: 69px;
+	left: 61px;
+	width: 457px;
+	height: 75px;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_place_ek6 {
+	top: 193px;
+	left: 61px;
+	width: 251px;
+	height: 75px;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#kalkaji_temple_ek6 {
+	top: 131px;
+	left: 61px;
+	width: 302px;
+	height: 75px;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#palam_airport_ek6 {
+	top: 255px;
+	left: 61px;
+	width: 284px;
+	height: 75px;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_28_ek4 {
+	top: 23px;
+	left: 0px;
+	width: 36px;
+	height: 285px;
+}
+
+#line_3_ek4 {
+	top: 34px;
+	left: 17px;
+	width: 4px;
+	height: 230px;
+}
+
+
+#ellipse_1_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 36px;
+	height: 36px;
+	-ms-border-radius: 18px / 18px;
+	-o-border-radius: 18px / 18px;
+	-moz-border-radius: 18px / 18px;
+	-webkit-border-radius: 18px / 18px;
+	border-radius: 18px / 18px;
+	background:rgba(0,175,76,255);
+}
+
+
+#ellipse_2_ek4 {
+	top: 76px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_3_ek4 {
+	top: 138px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_4_ek4 {
+	top: 199px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_5_ek4 {
+	top: 261px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+#group_30_ek4 {
+	top: 72px;
+	left: 880px;
+	width: 67px;
+	height: 126px;
+}
+
+#path_20 {
+	top: 78px;
+	left: 19px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__04_ek23 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 75px;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek22 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 33px;
+	font-family: Heebo;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_31_ek4 {
+	top: 72px;
+	left: 968px;
+	width: 67px;
+	height: 126px;
+}
+
+#path_21 {
+	top: 78px;
+	left: 19px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__04_ek24 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 75px;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek23 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 33px;
+	font-family: Heebo;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#_1st_bus_ek4 {
+	top: 19px;
+	left: 848px;
+	width: 104px;
+	height: 50px;
+	font-family: Heebo;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#next_ek4 {
+	top: 19px;
+	left: 977px;
+	width: 63px;
+	height: 50px;
+	font-family: Heebo;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#expected_soon {
+	top: 779px;
+	left: 45px;
+	width: 203px;
+	height: 50px;
+	font-family: Heebo;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#h {
+	top: 295px;
+	left: 528px;
+	width: 175px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#page_web_1920___17_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___17_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_12_ek5 {
+	opacity:0.050980392156863;
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(0,0,0,13);
+}
+
+#group_37_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 220px;
+}
+
+#rectangle_3_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 220px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,175,164,255);
+}
+
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium____ek5 {
+	top: 67px;
+	left: 45px;
+	width: 577px;
+	height: 139.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#ffffff;
+}
+
+
+#_4_26_pm_ek7 {
+	top: 63px;
+	left: 666px;
+	width: 360px;
+	height: 132px;
+	font-family: Roboto;
+	font-size: 94px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_40_ek5 {
+	top: 840px;
+	left: 12px;
+	width: 1056px;
+	height: 220px;
+}
+
+#rectangle_11_ek24 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 220px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek22 {
+	top: 16px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium__terminal_ek8 {
+	top: 16px;
+	left: 188px;
+	width: 641px;
+	height: 212.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek24 {
+	top: 27px;
+	left: 970px;
+	width: 66px;
+	height: 102.06982421875px;
+}
+
+#path_6_ek6 {
+	top: 54px;
+	left: 18px;
+	width: 48px;
+	height: 47.999755859375px;
+}
+
+
+#__07_ek23 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek24 {
+	top: 12px;
+	left: 882px;
+	width: 66px;
+	height: 117px;
+}
+
+#path_5_ek6 {
+	top: 69px;
+	left: 18px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__04_ek25 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek24 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_45 {
+	top: 1080px;
+	left: 12px;
+	width: 1056px;
+	height: 220px;
+}
+
+#rectangle_11_ek25 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 220px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek23 {
+	top: 16px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium__terminal_ek9 {
+	top: 16px;
+	left: 188px;
+	width: 641px;
+	height: 212.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek25 {
+	top: 27px;
+	left: 970px;
+	width: 66px;
+	height: 102.06982421875px;
+}
+
+#path_6_ek7 {
+	top: 54px;
+	left: 18px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__07_ek24 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek25 {
+	top: 12px;
+	left: 882px;
+	width: 66px;
+	height: 117px;
+}
+
+#path_5_ek7 {
+	top: 69px;
+	left: 18px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__04_ek26 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek25 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_46 {
+	top: 1320px;
+	left: 12px;
+	width: 1056px;
+	height: 220px;
+}
+
+#rectangle_11_ek26 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 220px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek24 {
+	top: 16px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium__terminal_ek10 {
+	top: 16px;
+	left: 188px;
+	width: 641px;
+	height: 212.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek26 {
+	top: 27px;
+	left: 970px;
+	width: 66px;
+	height: 102.06982421875px;
+}
+
+#path_6_ek8 {
+	top: 54px;
+	left: 18px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__07_ek25 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek26 {
+	top: 12px;
+	left: 882px;
+	width: 66px;
+	height: 117px;
+}
+
+#path_5_ek8 {
+	top: 69px;
+	left: 18px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__04_ek27 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek26 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_47 {
+	top: 1560px;
+	left: 12px;
+	width: 1056px;
+	height: 220px;
+}
+
+#rectangle_11_ek27 {
+	top: 0px;
+	left: 0px;
+	width: 1056px;
+	height: 220px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-ms-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 0px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#_185_ek25 {
+	top: 16px;
+	left: 38px;
+	width: 83px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__sunehri_pulla_depot___jawaharlal_nehru_stadium__terminal_ek11 {
+	top: 16px;
+	left: 188px;
+	width: 641px;
+	height: 212.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#group_39_ek27 {
+	top: 27px;
+	left: 970px;
+	width: 66px;
+	height: 102.06982421875px;
+}
+
+#path_6_ek9 {
+	top: 54px;
+	left: 18px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__07_ek26 {
+	top: -11px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_38_ek27 {
+	top: 12px;
+	left: 882px;
+	width: 66px;
+	height: 117px;
+}
+
+#path_5_ek9 {
+	top: 69px;
+	left: 18px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__04_ek28 {
+	opacity:0.54901960784314;
+	top: 4px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek27 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#delhi_government_ek5 {
+	top: 1810px;
+	left: 613px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#iiitd_logo_ek5 {
+	top: 1810px;
+	left: 813px;
+	width: 166.66674804688px;
+	height: 100px;
+}
+
+
+#ndmc_logo_ek5 {
+	top: 1810px;
+	left: 717px;
+	width: 100px;
+	height: 100px;
+}
+
+
+#path_19_ek5 {
+	top: 1830px;
+	left: 984px;
+	width: 64px;
+	height: 60px;
+}
+
+#group_27_ek5 {
+	top: 240px;
+	left: 13px;
+	width: 1055px;
+	height: 540px;
+}
+
+#path_22_ek1 {
+	top: -23px;
+	left: -23px;
+	width: 1100px;
+	height: 585px;
+}
+
+
+#__p___108lnkstl_ek4 {
+	top: 71px;
+	left: 32px;
+	width: 333px;
+	height: 114px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#next_bus_ek7 {
+	top: 21px;
+	left: 32px;
+	width: 126px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_29_ek5 {
+	top: 178px;
+	left: 183px;
+	width: 513px;
+	height: 318px;
+}
+
+#nehru_vihar_ek6 {
+	top: -15px;
+	left: 61px;
+	width: 327px;
+	height: 84px;
+	font-family: Roboto;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#tughlaqabad_crossing_ek7 {
+	top: 67px;
+	left: 61px;
+	width: 457px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_place_ek7 {
+	top: 191px;
+	left: 61px;
+	width: 250px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#kalkaji_temple_ek7 {
+	top: 129px;
+	left: 61px;
+	width: 299px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#palam_airport_ek7 {
+	top: 253px;
+	left: 61px;
+	width: 284px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_28_ek5 {
+	top: 17px;
+	left: 0px;
+	width: 36px;
+	height: 285px;
+}
+
+#line_3_ek5 {
+	top: 34px;
+	left: 17px;
+	width: 4px;
+	height: 230px;
+}
+
+
+#ellipse_1_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 36px;
+	height: 36px;
+	-ms-border-radius: 18px / 18px;
+	-o-border-radius: 18px / 18px;
+	-moz-border-radius: 18px / 18px;
+	-webkit-border-radius: 18px / 18px;
+	border-radius: 18px / 18px;
+	background:rgba(0,175,76,255);
+}
+
+
+#ellipse_2_ek5 {
+	top: 76px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_3_ek5 {
+	top: 138px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_4_ek5 {
+	top: 199px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_5_ek5 {
+	top: 261px;
+	left: 6px;
+	width: 12px;
+	height: 12px;
+	-ms-border-radius: 12px / 12px;
+	-o-border-radius: 12px / 12px;
+	-moz-border-radius: 12px / 12px;
+	-webkit-border-radius: 12px / 12px;
+	border-radius: 12px / 12px;
+	border: 6px solid #00af4c;
+	background:rgba(255,255,255,255);
+}
+
+#group_30_ek5 {
+	top: 74px;
+	left: 880px;
+	width: 67px;
+	height: 124px;
+}
+
+#path_20_ek1 {
+	top: 76px;
+	left: 19px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__04_ek29 {
+	opacity:0.54901960784314;
+	top: 6px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek28 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_31_ek5 {
+	top: 74px;
+	left: 968px;
+	width: 67px;
+	height: 124px;
+}
+
+#path_21_ek1 {
+	top: 76px;
+	left: 19px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#__04_ek30 {
+	opacity:0.54901960784314;
+	top: 6px;
+	left: 0px;
+	width: 71px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#est_ek29 {
+	opacity:0.54901960784314;
+	top: -5px;
+	left: 31px;
+	width: 40px;
+	height: 28px;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#_1st_bus_ek5 {
+	top: 21px;
+	left: 848px;
+	width: 104px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#next_ek5 {
+	top: 21px;
+	left: 977px;
+	width: 63px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#expected_soon_ek1 {
+	top: 781px;
+	left: 45px;
+	width: 203px;
+	height: 43px;
+	font-family: Roboto;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+#page_web_1920___3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___3_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_3_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 250px;
+	background:rgba(0,175,164,255);
+}
+
+
+#govindpuri__bus_stand_ek2 {
+	top: 35px;
+	left: 62px;
+	width: 326px;
+	height: 154px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_4_26_pm_ek8 {
+	top: 43px;
+	left: 666px;
+	width: 366px;
+	height: 144px;
+	font-family: Segoe UI;
+	font-size: 94px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_2_ek6 {
+	opacity:0.33000001311302;
+	top: 247px;
+	left: 0px;
+	width: 1080px;
+	height: 552px;
+	background:rgba(0,175,164,255);
+}
+
+#group_10_ek2 {
+	top: 353px;
+	left: 45px;
+	width: 972px;
+	height: 360px;
+}
+
+#_108_ek2 {
+	top: -14px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__01_ek2 {
+	top: -14px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_vihar_ek7 {
+	top: -15px;
+	left: 400px;
+	width: 342px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#tughlaqabad_crossing_ek8 {
+	top: 89px;
+	left: 400px;
+	width: 471px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_place_ek8 {
+	top: 227px;
+	left: 400px;
+	width: 258px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#kalkaji_temple_ek8 {
+	top: 158px;
+	left: 400px;
+	width: 304px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#palam_airport_ek8 {
+	top: 296px;
+	left: 400px;
+	width: 289px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__next_bus_ek8 {
+	top: 275px;
+	left: 45px;
+	width: 417px;
+	height: 82px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+
+#__04_ek31 {
+	top: 419px;
+	left: 940px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__07_ek27 {
+	top: 473px;
+	left: 940px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#path_1_ek2 {
+	top: 375px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_3_ek2 {
+	top: 495px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_2_ek2 {
+	top: 442px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#__p__incoming_buses_ek2 {
+	top: 827px;
+	left: 45px;
+	width: 481px;
+	height: 78px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_11_ek2 {
+	top: 946px;
+	left: 29px;
+	width: 1036px;
+	height: 225px;
+}
+
+#path_5_ek10 {
+	top: 24px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_7_ek2 {
+	top: 162px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_6_ek10 {
+	top: 95px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_6_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185_ek26 {
+	top: -13px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__04_ek32 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__kendriya_terminal_ek5 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__07_ek28 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__07_ek29 {
+	top: 137px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_9_ek2 {
+	top: 1689px;
+	left: 29px;
+	width: 972px;
+	height: 225px;
+}
+
+#_234cl_ek2 {
+	top: -15px;
+	left: 0px;
+	width: 185px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__12_ek4 {
+	top: -15px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__harsh_vihar_ek4 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__25_ek4 {
+	top: 64px;
+	left: 890px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__25_ek5 {
+	top: 121px;
+	left: 890px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_12_ek2 {
+	top: 1195px;
+	left: 29px;
+	width: 1035px;
+	height: 225px;
+}
+#group_7_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185lnkstl_ek2 {
+	top: -13px;
+	left: 0px;
+	width: 340px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__06_ek4 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__08_ek6 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__08_ek7 {
+	top: 127px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__old_delhi__railway__station_ek2 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_11_ek2 {
+	top: 95px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_12_ek2 {
+	top: 31px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_13_ek2 {
+	top: 146px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_13_ek2 {
+	top: 1442px;
+	left: 29px;
+	width: 1032px;
+	height: 225px;
+}
+#group_8_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#__15_ek6 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__15_ek7 {
+	top: 127px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#_185stl_ek2 {
+	top: -13px;
+	left: 0px;
+	width: 216px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__07_ek30 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__natthupura_ek4 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_10_ek2 {
+	top: 22px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_9_ek2 {
+	top: 87px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_14_ek2 {
+	top: 152px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_15_ek2 {
+	top: 1711px;
+	left: 1021px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_16_ek2 {
+	top: 1776px;
+	left: 1021px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_17_ek2 {
+	top: 1831px;
+	left: 1021px;
+	width: 40px;
+	height: 36px;
+}
+
+#page_web_1920___5_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___5_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#path_18 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 250px;
+}
+
+
+#govindpuri__bus_stand_ek3 {
+	top: 35px;
+	left: 62px;
+	width: 326px;
+	height: 154px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_4_26_pm_ek9 {
+	top: 43px;
+	left: 666px;
+	width: 366px;
+	height: 144px;
+	font-family: Segoe UI;
+	font-size: 94px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_2_ek7 {
+	opacity:0.33000001311302;
+	top: 247px;
+	left: 0px;
+	width: 1080px;
+	height: 552px;
+	background:rgba(29,57,152,255);
+}
+
+#group_10_ek3 {
+	top: 351px;
+	left: 45px;
+	width: 972px;
+	height: 360px;
+}
+
+#_108_ek3 {
+	top: -14px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__01_ek3 {
+	top: -14px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_vihar_ek8 {
+	top: -15px;
+	left: 400px;
+	width: 342px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#tughlaqabad_crossing_ek9 {
+	top: 89px;
+	left: 400px;
+	width: 471px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_place_ek9 {
+	top: 227px;
+	left: 400px;
+	width: 258px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#kalkaji_temple_ek9 {
+	top: 158px;
+	left: 400px;
+	width: 304px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#palam_airport_ek9 {
+	top: 296px;
+	left: 400px;
+	width: 289px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__next_bus_ek9 {
+	top: 275px;
+	left: 45px;
+	width: 417px;
+	height: 82px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+
+#path_1_ek3 {
+	top: 375px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#__p__incoming_buses_ek3 {
+	top: 827px;
+	left: 45px;
+	width: 481px;
+	height: 78px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_11_ek3 {
+	top: 946px;
+	left: 29px;
+	width: 1036px;
+	height: 225px;
+}
+
+#path_5_ek11 {
+	top: 24px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_7_ek3 {
+	top: 162px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_6_ek11 {
+	top: 95px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_6_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185_ek27 {
+	top: -13px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__04_ek33 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__kendriya_terminal_ek6 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__07_ek31 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__07_ek32 {
+	top: 137px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_9_ek3 {
+	top: 1689px;
+	left: 29px;
+	width: 972px;
+	height: 225px;
+}
+
+#_234cl_ek3 {
+	top: -15px;
+	left: 0px;
+	width: 185px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__12_ek5 {
+	top: -15px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__harsh_vihar_ek5 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__25_ek6 {
+	top: 64px;
+	left: 890px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__25_ek7 {
+	top: 121px;
+	left: 890px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_12_ek3 {
+	top: 1195px;
+	left: 29px;
+	width: 1035px;
+	height: 225px;
+}
+#group_7_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185lnkstl_ek3 {
+	top: -13px;
+	left: 0px;
+	width: 340px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__06_ek5 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__08_ek8 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__08_ek9 {
+	top: 127px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__old_delhi__railway__station_ek3 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_11_ek3 {
+	top: 95px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_12_ek3 {
+	top: 31px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_13_ek3 {
+	top: 146px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_13_ek3 {
+	top: 1442px;
+	left: 29px;
+	width: 1032px;
+	height: 225px;
+}
+#group_8_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#__15_ek8 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__15_ek9 {
+	top: 127px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#_185stl_ek3 {
+	top: -13px;
+	left: 0px;
+	width: 216px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__07_ek33 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__natthupura_ek5 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_10_ek3 {
+	top: 22px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_9_ek3 {
+	top: 87px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_14_ek3 {
+	top: 152px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_15_ek3 {
+	top: 1711px;
+	left: 1021px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_16_ek3 {
+	top: 1776px;
+	left: 1021px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_17_ek3 {
+	top: 1831px;
+	left: 1021px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_15 {
+	top: 448px;
+	left: 953px;
+	width: 80px;
+	height: 259px;
+}
+
+#__p____05 {
+	top: -11px;
+	left: 0px;
+	width: 80px;
+	height: 91.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+
+#__p____10 {
+	top: 64px;
+	left: 0px;
+	width: 80px;
+	height: 91.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+
+#__p____15 {
+	top: 124px;
+	left: 0px;
+	width: 80px;
+	height: 91.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+
+#__p____15_ {
+	top: 188px;
+	left: 0px;
+	width: 80px;
+	height: 91.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#page_web_1920___2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_3_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 250px;
+	background:rgba(0,175,76,255);
+}
+
+
+#govindpuri__bus_stand_ek4 {
+	top: 35px;
+	left: 62px;
+	width: 326px;
+	height: 154px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_4_26_pm_ek10 {
+	top: 43px;
+	left: 666px;
+	width: 366px;
+	height: 144px;
+	font-family: Segoe UI;
+	font-size: 94px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_2_ek8 {
+	opacity:0.33000001311302;
+	top: 247px;
+	left: 0px;
+	width: 1080px;
+	height: 552px;
+	background:rgba(0,175,12,255);
+}
+
+#group_10_ek4 {
+	top: 353px;
+	left: 45px;
+	width: 972px;
+	height: 360px;
+}
+
+#_108_ek4 {
+	top: -14px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__01_ek4 {
+	top: -14px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_vihar_ek9 {
+	top: -15px;
+	left: 400px;
+	width: 342px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#tughlaqabad_crossing_ek10 {
+	top: 89px;
+	left: 400px;
+	width: 471px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_place_ek10 {
+	top: 227px;
+	left: 400px;
+	width: 258px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#kalkaji_temple_ek10 {
+	top: 158px;
+	left: 400px;
+	width: 304px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#palam_airport_ek10 {
+	top: 296px;
+	left: 400px;
+	width: 289px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__next_bus_ek10 {
+	top: 275px;
+	left: 45px;
+	width: 417px;
+	height: 82px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+
+#__04_ek34 {
+	top: 419px;
+	left: 940px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#path_1_ek4 {
+	top: 375px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_2_ek3 {
+	top: 442px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#__p__incoming_buses_ek4 {
+	top: 827px;
+	left: 45px;
+	width: 481px;
+	height: 78px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_11_ek4 {
+	top: 941px;
+	left: 22px;
+	width: 1036px;
+	height: 225px;
+}
+
+#path_5_ek12 {
+	top: 24px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_6_ek12 {
+	top: 95px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_6_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185_ek28 {
+	top: -13px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__04_ek35 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__kendriya_terminal_ek7 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__07_ek34 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_12_ek4 {
+	top: 1166px;
+	left: 23px;
+	width: 1035px;
+	height: 225px;
+}
+#group_7_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185lnkstl_ek4 {
+	top: -13px;
+	left: 0px;
+	width: 340px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__06_ek6 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__08_ek10 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__old_delhi__railway__station_ek4 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_11_ek4 {
+	top: 95px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_12_ek4 {
+	top: 31px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_13_ek4 {
+	top: 1472px;
+	left: 24px;
+	width: 1032px;
+	height: 225px;
+}
+#group_8_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#__15_ek10 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#_185stl_ek4 {
+	top: -13px;
+	left: 0px;
+	width: 216px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__07_ek35 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__natthupura_ek6 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_10_ek4 {
+	top: 22px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_9_ek4 {
+	top: 95px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_14 {
+	top: 1729px;
+	left: 40px;
+	width: 1021px;
+	height: 225px;
+}
+#group_9_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 953px;
+	height: 225px;
+}
+
+#_234cl_ek4 {
+	top: -15px;
+	left: 0px;
+	width: 185px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__12_ek6 {
+	top: -15px;
+	left: 870px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__harsh_vihar_ek6 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__25_ek8 {
+	top: 66px;
+	left: 870px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#path_15_ek4 {
+	top: 24px;
+	left: 981px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_16_ek4 {
+	top: 89px;
+	left: 981px;
+	width: 40px;
+	height: 36px;
+}
+
+#page_web_1920___8_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___8_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_3_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 250px;
+	background:rgba(0,175,76,255);
+}
+
+
+#govindpuri__bus_stand_ek5 {
+	top: 35px;
+	left: 62px;
+	width: 326px;
+	height: 154px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_4_26_pm_ek11 {
+	top: 43px;
+	left: 666px;
+	width: 366px;
+	height: 144px;
+	font-family: Segoe UI;
+	font-size: 94px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_2_ek9 {
+	opacity:0.33000001311302;
+	top: 247px;
+	left: 0px;
+	width: 1080px;
+	height: 552px;
+	background:rgba(0,175,12,255);
+}
+
+#group_10_ek5 {
+	top: 353px;
+	left: 45px;
+	width: 972px;
+	height: 360px;
+}
+
+#_108_ek5 {
+	top: -14px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__01_ek5 {
+	top: -14px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_vihar_ek10 {
+	top: -15px;
+	left: 400px;
+	width: 342px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#tughlaqabad_crossing_ek11 {
+	top: 89px;
+	left: 400px;
+	width: 471px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_place_ek11 {
+	top: 227px;
+	left: 400px;
+	width: 258px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#kalkaji_temple_ek11 {
+	top: 158px;
+	left: 400px;
+	width: 304px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#palam_airport_ek11 {
+	top: 296px;
+	left: 400px;
+	width: 289px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__next_bus_ek11 {
+	top: 275px;
+	left: 45px;
+	width: 417px;
+	height: 82px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+
+#__04_ek36 {
+	top: 419px;
+	left: 940px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#path_1_ek5 {
+	top: 375px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_2_ek4 {
+	top: 442px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#__p__incoming_buses_ek5 {
+	top: 827px;
+	left: 45px;
+	width: 481px;
+	height: 78px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_11_ek5 {
+	top: 941px;
+	left: 22px;
+	width: 1036px;
+	height: 225px;
+}
+
+#path_5_ek13 {
+	top: 24px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_6_ek13 {
+	top: 95px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_6_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185_ek29 {
+	top: -13px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__04_ek37 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__kendriya_terminal_ek8 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__07_ek36 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_12_ek5 {
+	top: 1166px;
+	left: 23px;
+	width: 1035px;
+	height: 225px;
+}
+#group_7_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185lnkstl_ek5 {
+	top: -13px;
+	left: 0px;
+	width: 340px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__06_ek7 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__08_ek11 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__old_delhi__railway__station_ek5 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_11_ek5 {
+	top: 95px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_12_ek5 {
+	top: 31px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_13_ek5 {
+	top: 1472px;
+	left: 24px;
+	width: 1032px;
+	height: 225px;
+}
+#group_8_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#__15_ek11 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#_185stl_ek5 {
+	top: -13px;
+	left: 0px;
+	width: 216px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__07_ek37 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__natthupura_ek7 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_10_ek5 {
+	top: 22px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_9_ek5 {
+	top: 95px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_14_ek1 {
+	top: 1729px;
+	left: 40px;
+	width: 1021px;
+	height: 225px;
+}
+#group_9_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 953px;
+	height: 225px;
+}
+
+#_234cl_ek5 {
+	top: -15px;
+	left: 0px;
+	width: 185px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__12_ek7 {
+	top: -15px;
+	left: 870px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__harsh_vihar_ek7 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__25_ek9 {
+	top: 66px;
+	left: 870px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#path_15_ek5 {
+	top: 24px;
+	left: 981px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_16_ek5 {
+	top: 89px;
+	left: 981px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#rectangle_6 {
+	opacity:0.33000001311302;
+	top: 1660px;
+	left: 1px;
+	width: 1080px;
+	height: 260px;
+	background:rgba(137,152,138,255);
+}
+
+
+#rectangle_7 {
+	opacity:0.33000001311302;
+	top: 1149px;
+	left: 0px;
+	width: 1080px;
+	height: 260px;
+	background:rgba(137,152,138,255);
+}
+
+
+#rectangle_8 {
+	opacity:0.33000001311302;
+	top: 799px;
+	left: 0px;
+	width: 1080px;
+	height: 94px;
+	background:rgba(137,152,138,255);
+}
+
+
+#line_1 {
+	top: 892px;
+	left: 1px;
+	width: 1080px;
+	height: 1px;
+}
+
+#page_web_1920___4_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___4_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_3_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 250px;
+	background:rgba(0,175,164,255);
+}
+
+
+#govindpuri__bus_stand_ek6 {
+	top: 35px;
+	left: 62px;
+	width: 326px;
+	height: 154px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_4_26_pm_ek12 {
+	top: 43px;
+	left: 666px;
+	width: 366px;
+	height: 144px;
+	font-family: Segoe UI;
+	font-size: 94px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_2_ek10 {
+	opacity:0.33000001311302;
+	top: 247px;
+	left: 0px;
+	width: 1080px;
+	height: 552px;
+	background:rgba(0,175,164,255);
+}
+
+#group_10_ek6 {
+	top: 375px;
+	left: 24px;
+	width: 972px;
+	height: 360px;
+}
+
+#_108_ek6 {
+	top: -14px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__01_ek6 {
+	top: -14px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_vihar_ek11 {
+	top: -15px;
+	left: 400px;
+	width: 342px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#tughlaqabad_crossing_ek12 {
+	top: 89px;
+	left: 400px;
+	width: 471px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_place_ek12 {
+	top: 227px;
+	left: 400px;
+	width: 258px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#kalkaji_temple_ek12 {
+	top: 158px;
+	left: 400px;
+	width: 304px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#palam_airport_ek12 {
+	top: 296px;
+	left: 400px;
+	width: 289px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__next_bus_ek12 {
+	top: 275px;
+	left: 45px;
+	width: 417px;
+	height: 82px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+
+#__04_ek38 {
+	top: 431px;
+	left: 914px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#path_1_ek6 {
+	top: 375px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_2_ek5 {
+	top: 442px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#__p__incoming_buses_ek6 {
+	top: 827px;
+	left: 45px;
+	width: 481px;
+	height: 78px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_11_ek6 {
+	top: 947px;
+	left: 22px;
+	width: 1036px;
+	height: 225px;
+}
+
+#path_5_ek14 {
+	top: 24px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_6_ek14 {
+	top: 95px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_6_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185_ek30 {
+	top: -13px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__04_ek39 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__kendriya_terminal_ek9 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__07_ek38 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_12_ek6 {
+	top: 1166px;
+	left: 23px;
+	width: 1035px;
+	height: 225px;
+}
+#group_7_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185lnkstl_ek6 {
+	top: -13px;
+	left: 0px;
+	width: 340px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__06_ek8 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__08_ek12 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__old_delhi__railway__station_ek6 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_11_ek6 {
+	top: 95px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_12_ek6 {
+	top: 31px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_13_ek6 {
+	top: 1472px;
+	left: 24px;
+	width: 1032px;
+	height: 225px;
+}
+#group_8_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#__15_ek12 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#_185stl_ek6 {
+	top: -13px;
+	left: 0px;
+	width: 216px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__07_ek39 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__natthupura_ek8 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_10_ek6 {
+	top: 22px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_9_ek6 {
+	top: 95px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_14_ek2 {
+	top: 1728px;
+	left: 30px;
+	width: 1028px;
+	height: 225px;
+}
+#group_9_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 953px;
+	height: 225px;
+}
+
+#_234cl_ek6 {
+	top: -15px;
+	left: 0px;
+	width: 185px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__12_ek8 {
+	top: -15px;
+	left: 870px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__harsh_vihar_ek8 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__25_ek10 {
+	top: 66px;
+	left: 870px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#path_15_ek6 {
+	top: 24px;
+	left: 988px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_16_ek6 {
+	top: 89px;
+	left: 988px;
+	width: 40px;
+	height: 36px;
+}
+
+#page_web_1920___6_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___6_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_3_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 250px;
+	background:rgba(0,82,175,255);
+}
+
+
+#govindpuri__bus_stand_ek7 {
+	top: 35px;
+	left: 62px;
+	width: 326px;
+	height: 154px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_4_26_pm_ek13 {
+	top: 43px;
+	left: 666px;
+	width: 366px;
+	height: 144px;
+	font-family: Segoe UI;
+	font-size: 94px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_2_ek11 {
+	opacity:0.33000001311302;
+	top: 247px;
+	left: 0px;
+	width: 1080px;
+	height: 552px;
+	background:rgba(29,57,152,255);
+}
+
+#group_10_ek7 {
+	top: 375px;
+	left: 24px;
+	width: 970px;
+	height: 360px;
+}
+
+#_108_ek7 {
+	top: -14px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__01_ek7 {
+	top: -15px;
+	left: 887px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_vihar_ek12 {
+	top: -15px;
+	left: 400px;
+	width: 342px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#tughlaqabad_crossing_ek13 {
+	top: 89px;
+	left: 400px;
+	width: 471px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#nehru_place_ek13 {
+	top: 227px;
+	left: 400px;
+	width: 258px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#kalkaji_temple_ek13 {
+	top: 158px;
+	left: 400px;
+	width: 304px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#palam_airport_ek13 {
+	top: 296px;
+	left: 400px;
+	width: 289px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__next_bus_ek13 {
+	top: 275px;
+	left: 45px;
+	width: 417px;
+	height: 82px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+
+#path_1_ek7 {
+	top: 399px;
+	left: 1027px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#__p__incoming_buses_ek7 {
+	top: 827px;
+	left: 45px;
+	width: 481px;
+	height: 78px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	line-height: 30px;
+	color:#040404;
+}
+
+#group_11_ek7 {
+	top: 947px;
+	left: 22px;
+	width: 1036px;
+	height: 225px;
+}
+
+#path_5_ek15 {
+	top: 24px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_6_ek15 {
+	top: 95px;
+	left: 996px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_6_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185_ek31 {
+	top: -13px;
+	left: 0px;
+	width: 105px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__04_ek40 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__kendriya_terminal_ek10 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__07_ek40 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_12_ek7 {
+	top: 1166px;
+	left: 23px;
+	width: 1035px;
+	height: 225px;
+}
+#group_7_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#_185lnkstl_ek7 {
+	top: -13px;
+	left: 0px;
+	width: 340px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__06_ek9 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__08_ek13 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__old_delhi__railway__station_ek7 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_11_ek7 {
+	top: 95px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_12_ek7 {
+	top: 31px;
+	left: 995px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_13_ek7 {
+	top: 1472px;
+	left: 24px;
+	width: 1032px;
+	height: 225px;
+}
+#group_8_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 972px;
+	height: 225px;
+}
+
+#__15_ek13 {
+	top: 73px;
+	left: 889px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#_185stl_ek7 {
+	top: -13px;
+	left: 0px;
+	width: 216px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__07_ek41 {
+	top: -13px;
+	left: 889px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__natthupura_ek9 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#path_10_ek7 {
+	top: 22px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_9_ek7 {
+	top: 95px;
+	left: 992px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_14_ek3 {
+	top: 1728px;
+	left: 30px;
+	width: 1028px;
+	height: 225px;
+}
+#group_9_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 953px;
+	height: 225px;
+}
+
+#_234cl_ek7 {
+	top: -15px;
+	left: 0px;
+	width: 185px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__12_ek9 {
+	top: -15px;
+	left: 870px;
+	width: 88px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#__p__harsh_vihar_ek9 {
+	top: -15px;
+	left: 400px;
+	width: 450px;
+	height: 267px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	line-height: 60px;
+	color:#040404;
+}
+
+
+#__25_ek11 {
+	top: 66px;
+	left: 870px;
+	width: 68px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#path_15_ek7 {
+	top: 24px;
+	left: 988px;
+	width: 40px;
+	height: 36px;
+}
+
+
+#path_16_ek7 {
+	top: 89px;
+	left: 988px;
+	width: 40px;
+	height: 36px;
+}
+
+#group_15_ek1 {
+	top: 476px;
+	left: 947px;
+	width: 80px;
+	height: 259px;
+}
+
+#__p____05_ek1 {
+	top: -11px;
+	left: 0px;
+	width: 80px;
+	height: 91.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+
+#__p____10_ek1 {
+	top: 64px;
+	left: 0px;
+	width: 80px;
+	height: 91.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+
+#__p____15_ek1 {
+	top: 124px;
+	left: 0px;
+	width: 80px;
+	height: 91.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+
+#__p____15__ek1 {
+	top: 188px;
+	left: 0px;
+	width: 80px;
+	height: 91.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#040404;
+}
+
+#page_web_1920___10_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___10_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 200px;
+	background:rgba(57,174,168,255);
+}
+
+#group_2 {
+	top: 1842px;
+	left: 1000px;
+	width: 48.364135742188px;
+	height: 48.241943359375px;
+}
+
+#path_1_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 48.364013671875px;
+	height: 15.205322265625px;
+}
+
+
+#path_2_ek6 {
+	top: 10px;
+	left: 6px;
+	width: 42.74609375px;
+	height: 37.921875px;
+}
+
+
+#govindpuri_bus_stand {
+	top: 89px;
+	left: 45px;
+	width: 472px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_02_58_pm {
+	top: 21px;
+	left: 594px;
+	width: 440px;
+	height: 140px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 100px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_4 {
+	top: 258px;
+	left: 45px;
+	width: 972px;
+	height: 344px;
+}
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal {
+	top: 5px;
+	left: 246px;
+	width: 606px;
+	height: 196.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#000000;
+}
+
+#group_3 {
+	top: 181px;
+	left: 286px;
+	width: 505px;
+	height: 163px;
+}
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek1 {
+	top: -5px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek2 {
+	top: 30px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek3 {
+	top: 65px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek4 {
+	top: 100px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek5 {
+	top: 135px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_540acl {
+	top: -15px;
+	left: 0px;
+	width: 226px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__02__05__10 {
+	top: -15px;
+	left: 889px;
+	width: 88px;
+	height: 228px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_5 {
+	top: 646px;
+	left: 45px;
+	width: 972px;
+	height: 344px;
+}
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek6 {
+	top: 5px;
+	left: 246px;
+	width: 606px;
+	height: 196.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#000000;
+}
+
+#group_3_ek1 {
+	top: 181px;
+	left: 286px;
+	width: 505px;
+	height: 163px;
+}
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek7 {
+	top: -5px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek8 {
+	top: 30px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek9 {
+	top: 65px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek10 {
+	top: 100px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek11 {
+	top: 135px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_540acl_ek1 {
+	top: -15px;
+	left: 0px;
+	width: 226px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__02__05__10_ek1 {
+	top: -15px;
+	left: 889px;
+	width: 88px;
+	height: 228px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_6_ek8 {
+	top: 1034px;
+	left: 45px;
+	width: 972px;
+	height: 344px;
+}
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek12 {
+	top: 5px;
+	left: 246px;
+	width: 606px;
+	height: 196.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#000000;
+}
+
+#group_3_ek2 {
+	top: 181px;
+	left: 286px;
+	width: 505px;
+	height: 163px;
+}
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek13 {
+	top: -5px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek14 {
+	top: 30px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek15 {
+	top: 65px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek16 {
+	top: 100px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek17 {
+	top: 135px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_540acl_ek2 {
+	top: -15px;
+	left: 0px;
+	width: 226px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__02__05__10_ek2 {
+	top: -15px;
+	left: 889px;
+	width: 88px;
+	height: 228px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_7_ek8 {
+	top: 1422px;
+	left: 26px;
+	width: 972px;
+	height: 344px;
+}
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek18 {
+	top: 5px;
+	left: 246px;
+	width: 606px;
+	height: 196.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#000000;
+}
+
+#group_3_ek3 {
+	top: 181px;
+	left: 286px;
+	width: 505px;
+	height: 163px;
+}
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek19 {
+	top: -5px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek20 {
+	top: 30px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek21 {
+	top: 65px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek22 {
+	top: 100px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek23 {
+	top: 135px;
+	left: 0px;
+	width: 510px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_540acl_ek3 {
+	top: -15px;
+	left: 0px;
+	width: 226px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__02__05__10_ek3 {
+	top: -15px;
+	left: 889px;
+	width: 88px;
+	height: 228px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+#page_web_1920___9_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___9_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 1920px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 200px;
+	background:rgba(57,174,168,255);
+}
+
+#group_2_ek1 {
+	top: 1842px;
+	left: 1000px;
+	width: 48.364135742188px;
+	height: 48.241943359375px;
+}
+
+#path_1_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 48.364074707031px;
+	height: 15.205322265625px;
+}
+
+
+#path_2_ek7 {
+	top: 10px;
+	left: 6px;
+	width: 42.74609375px;
+	height: 37.921875px;
+}
+
+
+#_02_58_pm_ek1 {
+	top: 21px;
+	left: 594px;
+	width: 440px;
+	height: 140px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 100px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#govindpuri_bus_stand_ek1 {
+	top: 89px;
+	left: 45px;
+	width: 472px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_8_ek8 {
+	top: 258px;
+	left: 57px;
+	width: 972px;
+	height: 181px;
+}
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek24 {
+	top: 5px;
+	left: 246px;
+	width: 606px;
+	height: 196.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#000000;
+}
+
+
+#_540acl_ek4 {
+	top: -15px;
+	left: 0px;
+	width: 226px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__02__05__10_ek4 {
+	top: -15px;
+	left: 889px;
+	width: 88px;
+	height: 156px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_9_ek8 {
+	top: 486px;
+	left: 57px;
+	width: 972px;
+	height: 181px;
+}
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek25 {
+	top: 5px;
+	left: 246px;
+	width: 606px;
+	height: 196.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#000000;
+}
+
+
+#_540acl_ek5 {
+	top: -15px;
+	left: 0px;
+	width: 226px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__02__05__10_ek5 {
+	top: -15px;
+	left: 889px;
+	width: 88px;
+	height: 156px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_10_ek8 {
+	top: 713px;
+	left: 57px;
+	width: 972px;
+	height: 181px;
+}
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek26 {
+	top: 5px;
+	left: 246px;
+	width: 606px;
+	height: 196.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#000000;
+}
+
+
+#_540acl_ek6 {
+	top: -15px;
+	left: 0px;
+	width: 226px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__02__05__10_ek6 {
+	top: -15px;
+	left: 889px;
+	width: 88px;
+	height: 156px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_11_ek8 {
+	top: 941px;
+	left: 57px;
+	width: 972px;
+	height: 181px;
+}
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek27 {
+	top: 5px;
+	left: 246px;
+	width: 606px;
+	height: 196.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#000000;
+}
+
+
+#_540acl_ek7 {
+	top: -15px;
+	left: 0px;
+	width: 226px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__02__05__10_ek7 {
+	top: -15px;
+	left: 889px;
+	width: 88px;
+	height: 156px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_12_ek8 {
+	top: 1168px;
+	left: 57px;
+	width: 972px;
+	height: 181px;
+}
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek28 {
+	top: 5px;
+	left: 246px;
+	width: 606px;
+	height: 196.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#000000;
+}
+
+
+#_540acl_ek8 {
+	top: -15px;
+	left: 0px;
+	width: 226px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__02__05__10_ek8 {
+	top: -15px;
+	left: 889px;
+	width: 88px;
+	height: 156px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_13_ek8 {
+	top: 1396px;
+	left: 57px;
+	width: 972px;
+	height: 181px;
+}
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek29 {
+	top: 5px;
+	left: 246px;
+	width: 606px;
+	height: 196.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#000000;
+}
+
+
+#_540acl_ek9 {
+	top: -15px;
+	left: 0px;
+	width: 226px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__02__05__10_ek9 {
+	top: -15px;
+	left: 889px;
+	width: 88px;
+	height: 156px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_14_ek4 {
+	top: 1623px;
+	left: 57px;
+	width: 972px;
+	height: 181px;
+}
+
+#__p__sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek30 {
+	top: 5px;
+	left: 246px;
+	width: 606px;
+	height: 196.5px;
+	overflow: hidden;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	line-height: 45px;
+	color:#000000;
+}
+
+
+#_540acl_ek10 {
+	top: -15px;
+	left: 0px;
+	width: 226px;
+	height: 84px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__02__05__10_ek10 {
+	top: -15px;
+	left: 889px;
+	width: 88px;
+	height: 156px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+#page_artboard___2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__artboard___2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#font_test___45_pt__medium_preferred_ {
+	top: 64px;
+	left: 100px;
+	width: 775px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+#group_22 {
+	top: 212px;
+	left: 100px;
+	width: 1173px;
+	height: 86px;
+}
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek31 {
+	top: 22px;
+	left: 0px;
+	width: 1178px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#helvetica_neue_lt_std___medium {
+	top: -5px;
+	left: 0px;
+	width: 303px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_21 {
+	top: 325px;
+	left: 100px;
+	width: 1144px;
+	height: 87px;
+}
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek32 {
+	top: 22px;
+	left: 0px;
+	width: 1149px;
+	height: 63px;
+	font-family: Roboto;
+	font-size: 45px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#roboto___medium {
+	top: -5px;
+	left: 0px;
+	width: 167px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_20 {
+	top: 439px;
+	left: 100px;
+	width: 1103px;
+	height: 88px;
+}
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek33 {
+	top: 21px;
+	left: 0px;
+	width: 1108px;
+	height: 65px;
+	font-family: Source Sans Pro;
+	font-size: 45px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#source_sans_pro___semibold {
+	top: -5px;
+	left: 0px;
+	width: 265px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_19 {
+	top: 555px;
+	left: 100px;
+	width: 1147px;
+	height: 95px;
+}
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek34 {
+	top: 18px;
+	left: 0px;
+	width: 1152px;
+	height: 75px;
+	font-family: Heebo;
+	font-size: 45px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#heebo___medium {
+	top: -5px;
+	left: 0px;
+	width: 159px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_18 {
+	top: 677px;
+	left: 100px;
+	width: 1220px;
+	height: 89px;
+}
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek35 {
+	top: 17px;
+	left: 0px;
+	width: 1225px;
+	height: 70px;
+	font-family: Noto Sans;
+	font-size: 45px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#noto_sans___medium {
+	top: -5px;
+	left: 0px;
+	width: 195px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_17 {
+	top: 793px;
+	left: 100px;
+	width: 1130px;
+	height: 86px;
+}
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek36 {
+	top: 21px;
+	left: 0px;
+	width: 1135px;
+	height: 63px;
+	font-family: Lato;
+	font-size: 45px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#lato___bold {
+	top: -5px;
+	left: 0px;
+	width: 108px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_16 {
+	top: 906px;
+	left: 100px;
+	width: 1117px;
+	height: 87px;
+}
+
+#sunehri_pulla_depot__jawaharlal_nehru_stadium_terminal_ek37 {
+	top: 16px;
+	left: 0px;
+	width: 1122px;
+	height: 69px;
+	font-family: Mukta;
+	font-size: 45px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mukta___medium {
+	top: -5px;
+	left: 0px;
+	width: 157px;
+	height: 27px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#page_artboard___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__artboard___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#original_eye_test {
+	top: 64px;
+	left: 100px;
+	width: 364px;
+	height: 63px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#the_quick_brown_fox_jumps_over_the_lazy_dog {
+	top: 288px;
+	left: 100px;
+	width: 626px;
+	height: 42px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 30px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#the_quick_brown_fox_jumps_over_the_lazy_dog_ek1 {
+	top: 223px;
+	left: 100px;
+	width: 523px;
+	height: 35px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 25px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#the_quick_brown_fox_jumps_over_the_lazy_dog_ek2 {
+	top: 360px;
+	left: 100px;
+	width: 730px;
+	height: 48px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 35px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#the_quick_brown_fox_jumps_over_the_lazy_dog_ek3 {
+	top: 437px;
+	left: 100px;
+	width: 833px;
+	height: 55.000244140625px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 40px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#the_quick_brown_fox_jumps_over_the_lazy_dog_ek4 {
+	top: 519px;
+	left: 100px;
+	width: 937px;
+	height: 62px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 45px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#the_quick_brown_fox_jumps_over_the_lazy_dog_ek5 {
+	top: 607px;
+	left: 100px;
+	width: 1041px;
+	height: 69px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 50px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#the_quick_brown_fox_jumps_over_the_lazy_dog_ek6 {
+	top: 702px;
+	left: 100px;
+	width: 1144px;
+	height: 75px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 55px;
+	text-align: left;
+	color:#040404;
+}
+
+
+#the_quick_brown_fox_jumps_over_the_lazy_dog_ek7 {
+	top: 802px;
+	left: 100px;
+	width: 1248px;
+	height: 82px;
+	font-family: Helvetica Neue LT Std;
+	font-size: 60px;
+	text-align: left;
+	color:#040404;
+}
+
+
+
+/* Add your custom CSS here */
